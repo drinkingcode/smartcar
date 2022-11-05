@@ -29,7 +29,7 @@ WiFi 智能小车，有三大部分组成：小程序，服务端 和 硬件（�
 [小程序]: https://developers.weixin.qq.com/miniprogram/dev/framework/
 [nodejs]: https://nodejs.org/en/
 
-- sr/smart-car-arduino
+- sr/smart-car-arduino  
   这一部分是硬件部分的源码，主要由 arduino 编写的，包含 ESP8266 的部分和小车的部分。更多 ardino 的介绍，可参考 [arduino][] 的说明
 
 - src/smart-car-mini  
